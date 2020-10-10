@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Latihan 2</string>
+    <string name="label">Label</string>
+    <string name="Image">Image</string>
+    <string name="Ngobar">NGOBAR Adalah Singkatan dari Noding Bareng, dimana dalam kegiatan ini adalah belajar bareng untuk membuat sebuah program dengan bahasa pemrograman tertentu</string>
+    <string name="submit">Submit</string>
+    <string name="nim">3420160144</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="lableNIM">NIM</string>
+</resources>
